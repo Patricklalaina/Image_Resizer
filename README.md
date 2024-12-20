@@ -11,7 +11,7 @@
 
 1. Clone the repo
    ```sh
-   [git clone https://github.com/github_username/repo_name.git](https://github.com/Patricklalaina/Image_Resizer.git)
+   https://github.com/Patricklalaina/Image_Resizer.git
    ```
 2. launch
    ```sh
